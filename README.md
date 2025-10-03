@@ -1,7 +1,8 @@
 
 # Stroke Risk Calculator
 
-Interactive web app to predict stroke risk using **synthetic data**.
+Stroke Risk App (Streamlit platform)
+Under development – not yet live. Built with synthetic data for testing purposes.
 
 ## Disclaimer
 This app uses synthetic data for demonstration purposes only.
