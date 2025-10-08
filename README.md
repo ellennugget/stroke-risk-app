@@ -1,7 +1,7 @@
 
 # Stroke Risk Calculator
 
-Interactive web app to predict stroke risk using **synthetic data**.
+Demo app for data science model deployment (health prediction example)
 https://stroke-risk-app-skl132-demo.streamlit.app/
 
 ## Disclaimer
